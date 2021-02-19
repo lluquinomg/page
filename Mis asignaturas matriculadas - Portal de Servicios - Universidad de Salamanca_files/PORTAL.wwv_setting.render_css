@@ -1,0 +1,95 @@
+.GroupHeaderid1siteid36{Text-Align:left;Height:20px;Background-Color:#CCCCCC;}
+.GroupHeaderLinkid1siteid36{Font-Weight:Bold;Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#FFFFFF;}
+.GroupHeaderTextid1siteid36{Color:#FFFFFF;Font-Weight:Bold;Font-Size:9pt;Font-Family:Arial, Helvetica;}
+.RegionHeaderid1siteid36{Background-Color:#e9e9e9;Text-Align:left;Height:8px;}
+.RegionHeaderTextid1siteid36{Font-Size:9pt;Font-Family:Arial, Helvetica;Color:#565656;}
+.Bodyid1siteid36{Background-Color:#FFFFFF;}
+.Display_In_New_browserid1siteid36{Color:#000000;Font-Size:8pt;Font-Family:Arial, Helvetica;}
+.Display_Reports_Parameter_Formid1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.Oracle_Reports_Componentsid1siteid36{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.authorid1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.createdateid1siteid36{Font-Family:Arial, Helvetica;Color:#000000;Font-Size:8pt;}
+.creatorid1siteid36{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.defaultattributeid1siteid36{Font-Family:Arial, Helvetica;Font-Size:8pt;Color:#000000;}
+.descriptionid1siteid36{Font-Size:0.75em;Font-Family:Arial, Helvetica;Color:#3d3d3d;}
+.documentsizeid1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.expiredateid1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.inplacedisplayid1siteid36{Color:#3d3d3d;Font-Family:Arial, Helvetica;Font-Size:0.75em;}
+.itemfunctionid1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.scoreid1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.subpagetitleid1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.titleid1siteid36{Font-Weight:Bold;Font-Size:0.75em;Font-Family:Arial, Helvetica;Color:#3d3d3d;}
+.titleorimageid1siteid36{Font-Size:0.75em;Font-Family:Arial, Helvetica;Color:#990000;}
+.wwsbr_category_id1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_charset_id1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_itemtype_id1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_mime_type_id1siteid36{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_pagegroup_id1siteid36{Font-Family:Arial, Helvetica;Color:#000000;Font-Size:8pt;}
+.wwsbr_publishdate_id1siteid36{Font-Family:Arial, Helvetica;Color:#3d3d3d;Font-Size:8pt;}
+.wwsbr_updatedate_id1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_updator_id1siteid36{Font-Size:8pt;Font-Family:Arial, Helvetica;Color:#000000;}
+.wwsbr_version_number_id1siteid36{Font-Family:Arial, Helvetica;Color:#000000;Font-Size:8pt;}
+.LeftCurve{Background-Repeat:no-repeat;Background-Position:left top;Background-Image:url(https://portal.usal.es/images/FFFFFFl.gif);Background-Attachment:scroll;}
+.PortletBodyColor{}
+.PortletHeaderColor{Background-Color:#CCCCCC;}
+.PortletHeaderLink{Font-Size:0.75em;Font-Family:Arial, Helvetica;Color:#565656;}
+.PortletHeaderStyle{}
+.PortletHeaderText{Color:#333333;Font-Family:Arial, Helvetica;Font-Size:1em;}
+.PortletHeading1{Color:#666666;Font-Weight:Bold;Font-Size:0.8em;Font-Family:Arial, Helvetica;}
+.PortletHeading2{Color:#333333;Font-Family:Arial, Helvetica;Font-Size:0.75em;}
+.PortletHeading3{Font-Family:Arial, Helvetica;Font-Size:0.7em;Color:#333333;}
+.PortletHeading4{Color:#333333;Font-Family:Arial, Helvetica;Font-Size:0.7em;}
+.PortletSubHeaderColor{Background-Color:#EEEEDD;}
+.PortletSubHeaderLink{Color:#333333;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.PortletSubHeaderText{Color:#333333;Font-Size:9pt;Font-Family:Arial, Helvetica;}
+.PortletText1{Color:#333333;Font-Family:Arial, Helvetica;Font-Size:0.8em;}
+.PortletText2{Font-Size:0.75em;Font-Family:Arial, Helvetica;Color:#333333;}
+.PortletText3{Color:#333333;Font-Size:0.65em;Font-Family:Arial, Helvetica;}
+.PortletText4{Font-Size:0.65em;Font-Family:Arial, Helvetica;Color:#333333;}
+.RightCurve{Background-Attachment:scroll;Background-Image:url(https://portal.usal.es/images/FFFFFFr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.LeftSubTabid1siteid36{Background-Attachment:scroll;Background-Color:#565656;Background-Position:left top;Background-Repeat:no-repeat;Background-Image:url(https://portal.usal.es/images/FFFFFFsl.gif);}
+.LeftTabBgSlantid1siteid36{Background-Repeat:no-repeat;Background-Attachment:scroll;Background-Color:#CCCCCC;Background-Position:left top;Background-Image:url(https://portal.usal.es/images/FFFFFFtl.gif);}
+.LeftTabForeSlantid1siteid36{Background-Color:#565656;Background-Position:left top;Background-Attachment:scroll;Background-Repeat:no-repeat;Background-Image:url(https://portal.usal.es/images/FFFFFFtl.gif);}
+.RightSubTabid1siteid36{Background-Repeat:no-repeat;Background-Position:right top;Background-Attachment:scroll;Background-Color:#565656;Background-Image:url(https://portal.usal.es/images/FFFFFFsr.gif);}
+.RightTabBgCurveid1siteid36{Background-Attachment:scroll;Background-Position:right top;Background-Repeat:no-repeat;Background-Image:url(https://portal.usal.es/images/FFFFFFtr.gif);Background-Color:#CCCCCC;}
+.RightTabForeCurveid1siteid36{Background-Color:#565656;Background-Attachment:scroll;Background-Position:right top;Background-Repeat:no-repeat;Background-Image:url(https://portal.usal.es/images/FFFFFFtr.gif);}
+.SubTabBgTextid1siteid36{Color:#CCCCCC;Text-Decoration:none;Font-Weight:Bold;Font-Family:Arial, Helvetica;Font-Size:11pt;}
+.TabBackgroundColorid1siteid36{Background-Color:#CCCCCC;}
+.TabBackgroundTextid1siteid36{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid1siteid36{Background-Color:#565656;}
+.TabForegroundTextid1siteid36{Font-Weight:Bold;Font-Size:10pt;Font-Family:Arial, Helvetica;Color:#FFFFFF;Text-Decoration:none;}
+.portlet-font{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-font-dim{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-msg-status{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-msg-info{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-msg-error{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-msg-alert{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-msg-success{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-section-header{Color:#666666;    Font-Weight:Bold;    Font-Size:0.8em;    Font-Family:Arial, Helvetica;    }
+.portlet-section-body{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-section-alternate{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-section-selected{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-section-subheader{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.75em;    }
+.portlet-section-footer{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-section-text{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-table-header{Color:#666666;    Font-Weight:Bold;    Font-Size:0.8em;    Font-Family:Arial, Helvetica;    Background-Color:#EEEEDD;    }
+.portlet-table-body{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-table-alternate{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-table-selected{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-table-subheader{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.75em;    }
+.portlet-table-footer{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-table-text{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-form-label{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-form-input-field{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-form-button{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-icon-label{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-dlg-icon-label{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-form-field-label{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.portlet-form-field{Color:#333333;    Font-Family:Arial, Helvetica;    Font-Size:0.8em;    }
+.RegionNoBorder{}
+.RegionBorder { border:#CCCCCC  1px solid; }
+.RegionHeaderColor { border:#CCCCCC 0px solid;}
+.PageColor { background-color:#FFFFFF}
