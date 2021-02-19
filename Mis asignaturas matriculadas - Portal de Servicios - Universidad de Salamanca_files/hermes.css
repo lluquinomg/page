@@ -1,0 +1,221 @@
+/**
+ * Contiene selectores y reglas en relacion a los portlet
+ * @author:  OCU
+ * @version: v 0.3
+ * @date:    01/09/2010    
+ 
+
+*---------------------------------------------------------------------------
+
+-*/
+p.titulo {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12pt;
+	color: #336699
+}
+p.subtitulo {
+	font-family: Arial;
+	font-size: 12pt;
+	color: black
+}
+p.texto {
+	font-family: Arial;
+	font-size: 10pt;
+	color: black
+}
+p.alerta {
+	font-family: Arial;
+	font-size: 10pt;
+	color: red
+}
+tr.listadonominas {
+	font-family: Arial
+}
+hr.barra {
+	color: #990099
+}
+
+div.titulo {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12pt;
+	color: #336699
+}
+div.subtitulo {
+	font-family: Arial;
+	font-size: 12pt;
+	color: black
+}
+div.texto {
+	font-family: Arial;
+	font-size: 10pt;
+	color: black
+}
+div.alerta {
+	font-family: Arial;
+	font-size: 10pt;
+	color: red
+}
+div.textoAyuda {
+	font-family: Arial;
+	font-size: 10pt;
+	color: #7B7BA5
+}
+.error500 {
+	margin: 40px;
+	text-align: center;
+	vertical-align: middle;
+}
+.hide {
+	position: absolute;
+	visibility: hidden;
+}
+.show {
+	position: absolute;
+	visibility: visible;
+}
+.tablaProgreso {
+	font-family: Arial;
+	font-size: 10pt;
+	color: black;
+	border-right: 1px solid #595959;
+	border-bottom: 1px solid #595959;
+	background-color: #BCBCBC;
+}
+.tabla {
+	border-collapse: collapse;
+	border-color: #C0C0C0;
+}
+#recuadro_error {
+	padding: 30px;
+}
+
+
+.ejemplo{
+    background-color:#FFC7CE;
+    color:#9C0006;
+    font-weight:bold;
+    font-size:10pt;
+    
+} 
+
+/**
+ * Selectores y reglas en relacion a los nuevos portlets
+ * @date:    01/04/2009    
+ *----------------------------------------------------------------------------*/
+
+.formConsulta a {
+	text-decoration:none!important;
+	}
+.formConsulta label {
+	padding:0.5em;
+	}
+.formConsulta ol {
+	margin-top:0.1em!important; 
+	margin-bottom:0.2em!important;
+	}
+.formConsulta ol li {
+	list-style:none; 
+	padding:0.2em;
+	}
+.formConsulta legend {
+	font-weight:bold;
+	}
+.formConsulta #btbuscar {
+	text-align:center;
+	}
+.formConsulta #btbuscar a {
+	text-decoration:none;
+	}
+.formConsulta p {
+	margin-left:0.5em; 
+	margin-bottom:0.2em;
+	}
+	.formConsulta .textEj {
+	margin-left:0.2em; 
+	font-size:0.8em;
+	}
+.formConsulta h1, h2, h3 {
+	font-size:1em;
+	}
+.formConsulta INPUT {
+	margin-left:0.5em;
+	}
+	
+/*Portlets BSAN ---------------------------------*/
+.colum1, .colum2, .colum3 {
+	float:left; 
+	margin-right:1em;
+	}
+.colum1 {
+	margin-left:1.5em;
+	}
+.critsResult {
+	margin:0.5em;
+	}
+
+/* Ordenacion de las columnas de una tabla */
+tr.rowodd {
+}
+tr.roweven {
+}
+.sortcol {
+	cursor: pointer;
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.sortcol a, .sortcol a:hover {
+	padding-right: 0.9em!important;
+}
+.sortasc {
+}
+.sortdesc {
+}
+.sortasc a {
+	background: url(../images/up.gif) right no-repeat;
+	padding-right: 0.9em!important;
+}
+.sortdesc a {
+	background: url(../images/down.gif) right no-repeat;
+	padding-right: 0.9em!important;
+}
+.sortdesc a:hover {
+	text-decoration: underline!important;
+}
+.nosort {
+	cursor: default;
+}
+.urg1, 
+.urg2, 
+.urg3,  
+.urg4, 
+.urg5 {
+	text-align: center;
+	border: 1px solid #333;
+	width: 3em;
+}
+.urg1 {
+	background-color: #FFFACD;
+}
+.urg2 {
+	background-color: #FFD700;
+}
+.urg3 {
+	background-color: Orange;
+}
+.urg4 {
+	background-color: #FF6347;
+}
+.urg5 {
+	background-color: Red;
+}
+#recuadro_informacion .tabla {
+	margin: 0;
+    padding: 0;
+}
+
+/* Mis alumnos */
+.tablegend01 h4 {
+margin: 0.9em 0 0.4em 0!important;
+}
